@@ -1,5 +1,32 @@
 # Changelog
 
+## [2026.8.4](https://github.com/jdx/mise/compare/v2026.8.3..v2026.8.4) - 2026-08-08
+
+### 🚀 Features
+
+- **(cache)** add in-process cache session foundation by @jdx in [#11767](https://github.com/jdx/mise/pull/11767)
+
+### 🐛 Bug Fixes
+
+- **(task)** handle azure devops remote git includes by @cheesemans in [#11768](https://github.com/jdx/mise/pull/11768)
+
+### 🚜 Refactor
+
+- **(cache)** generalize remote action protocol by @jdx in [#11763](https://github.com/jdx/mise/pull/11763)
+- **(cache)** extract remote cache client by @jdx in [#11765](https://github.com/jdx/mise/pull/11765)
+
+### 📚 Documentation
+
+- **(brew)** link homebrew cask cookbook for cask lifecycle concepts by @himkt in [#11773](https://github.com/jdx/mise/pull/11773)
+
+### 🧪 Testing
+
+- **(vfox)** handle HTTP request read count by @jdx in [#11771](https://github.com/jdx/mise/pull/11771)
+
+### New Contributors
+
+- @cheesemans made their first contribution in [#11768](https://github.com/jdx/mise/pull/11768)
+
 ## [2026.8.3](https://github.com/jdx/mise/compare/v2026.8.2..v2026.8.3) - 2026-08-07
 
 ### 🚀 Features
